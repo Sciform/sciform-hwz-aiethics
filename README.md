@@ -1,1 +1,1 @@
-# sciform-hwz-aiethics
+# AI Ethics 
